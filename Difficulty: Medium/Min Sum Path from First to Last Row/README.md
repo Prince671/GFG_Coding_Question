@@ -1,0 +1,8 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/minimum-sum-in-a-falling-path/1">Min Sum Path from First to Last Row</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p>Given a matrix <strong>mat[][]</strong> of size <strong>n*n</strong>, where each cell contains an integer value. A falling path starts from any cell in the first row and moves downward to the last row.<br><br>From a cell (i, j), you may move to the cell directly below (i+1, j), the cell diagonally down-left (i+1, j-1), or the cell diagonally down-right (i+1, j+1) if they exist. Your task is to compute the minimum sum of values along any valid falling path from the top row to the bottom row.</p>
+<p><span style="font-size: 14pt;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>mat[][] = [[5, 10],<br>               [25, 15]]
+<strong>Output: </strong>20
+<strong>Explanation: </strong>The minimum falling path is 5 -&gt; 15 with sum 20.</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>mat[][] = [[1, 2, 3],<br>                [4, 5, 6]<br>                [7, 8, 9]]
+<strong>Output: </strong>12
+<strong>Explanation: </strong>The minimum falling path is 1 -&gt; 4 -&gt; 7, with sum 12. </span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Dynamic Programming</code>&nbsp;
