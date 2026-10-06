@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 |
-| GeeksforGeeks | 6 | 1 | 5 | 0 |
-| **Total** | **6** | **1** | **5** | **0** |
+| GeeksforGeeks | 7 | 1 | 6 | 0 |
+| **Total** | **7** | **1** | **6** | **0** |
 
 ## Solved Problems
 
@@ -21,4 +21,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [Min Sum Path from First to Last Row](https://practice.geeksforgeeks.org/problems/minimum-sum-in-a-falling-path/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinSumPathFromFirstToLastRow.java) |
 | 5 | [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ReverseAStack.java) |
 | 6 | [Triangle Path Sum](https://practice.geeksforgeeks.org/problems/triangle-path-sum/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_TrianglePathSum.java) |
+| 7 | [Two Stacks in Array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_TwoStacksInArray.java) |
 <!-- COMMITDSA_END -->
