@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 |
-| GeeksforGeeks | 12 | 5 | 7 | 0 |
-| **Total** | **12** | **5** | **7** | **0** |
+| GeeksforGeeks | 13 | 5 | 8 | 0 |
+| **Total** | **13** | **5** | **8** | **0** |
 
 ## Solved Problems
 
@@ -25,6 +25,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 8 | [Min Add to Make Parentheses Valid](https://practice.geeksforgeeks.org/problems/min-add-to-make-parentheses-valid/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinAddToMakeParenthesesValid.java) |
 | 9 | [Min Sum Path from First to Last Row](https://practice.geeksforgeeks.org/problems/minimum-sum-in-a-falling-path/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinSumPathFromFirstToLastRow.java) |
 | 10 | [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ReverseAStack.java) |
-| 11 | [Triangle Path Sum](https://practice.geeksforgeeks.org/problems/triangle-path-sum/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_TrianglePathSum.java) |
-| 12 | [Two Stacks in Array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_TwoStacksInArray.java) |
+| 11 | [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSums.java) |
+| 12 | [Triangle Path Sum](https://practice.geeksforgeeks.org/problems/triangle-path-sum/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_TrianglePathSum.java) |
+| 13 | [Two Stacks in Array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_TwoStacksInArray.java) |
 <!-- COMMITDSA_END -->
